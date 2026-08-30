@@ -1,0 +1,5 @@
+password/
+config.json
+__pycache__/
+*.pyc
+*.sql
