@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Password Manager
 A command‑line password manager with Caesar cipher encryption and MySQL storage.
 
