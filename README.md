@@ -2,8 +2,8 @@
 A command‑line password manager with Caesar cipher encryption and MySQL storage.
 
 ## Requirements
-- Python 3.8+
-- MySQL 8.0+
+- [Python 3.8+](https://www.python.org/downloads/)
+- [MySQL 8.0+](https://dev.mysql.com/downloads/installer/)
 
 ## Quick Start
 1. Double‑click `setup.bat`.
@@ -29,6 +29,3 @@ A command‑line password manager with Caesar cipher encryption and MySQL storag
 
 ## License
 GPL-3.0 license
-=======
-# Password-Manager-Lite
-A command‑line password manager with Caesar cipher encryption and MySQL storage.
