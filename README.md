@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Password Manager
 A command‑line password manager with Caesar cipher encryption and MySQL storage.
 
@@ -29,3 +30,7 @@ A command‑line password manager with Caesar cipher encryption and MySQL storag
 
 ## License
 GPL-3.0 license
+=======
+# Password-Manager-Lite
+A command‑line password manager with Caesar cipher encryption and MySQL storage.
+>>>>>>> d238a6a11e51df2a6ab6d9fd0f1eac2217ea6888
